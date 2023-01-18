@@ -56,3 +56,4 @@ LinkBehaviour_D7C2635A_C374_D863_41D3_8E919635AA38.source = https://open.spotify
 LinkBehaviour_D7C9A8CC_C313_C866_41CA_26795BB47EA4.source = https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTQ4MzI3NzM1MjQxOTc5?story_media_id=2939117012393937896&igshid=YmMyMTA2M2Y=
 LinkBehaviour_D7CDCA87_C313_C8E2_41E3_1C6433FA82F5.source = https://open.spotify.com/playlist/4hBmCBAhbULrneVS9329T0
 LinkBehaviour_D7D401B4_C315_B827_41D2_769E4A55C92A.source = https://open.spotify.com/playlist/4hBmCBAhbULrneVS9329T0
+LinkBehaviour_DB367FE2_C315_4822_41DE_689170DA57D5.source = instagram.com/casario179
