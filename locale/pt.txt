@@ -52,6 +52,7 @@ panorama_B2EFC45C_BE2F_8B8F_418E_C3A7502C0706.label = 08
 ### URL
 LinkBehaviour_A4CF1046_BE34_EEE5_41A4_D4E7BC10D7BD.source = https://linktr.ee/casario179
 LinkBehaviour_A8A7ED0A_BE2B_B58B_41AD_D1ED864CFF59.source = https://linktr.ee/casario179
+LinkBehaviour_C7738085_D05D_7E9F_41CC_F8D08B9E1695.source = instagram.com/casario179
 LinkBehaviour_D4A87596_C30F_58E2_41DB_E8A2488B5515.source = https://linktr.ee/casario179
 LinkBehaviour_D564F91C_C377_C9E6_41D4_CF8B3DA360AF.source = https://open.spotify.com/track/2PfQ8AgfivR1MMXhkpvD1d?si=dae1600613f04377
 LinkBehaviour_D6187A73_C313_C822_41CB_74BBEF0E990A.source = https://open.spotify.com/track/1KdqB4iQJOjvvWETjseJWJ?si=9aa82bc02383460f
