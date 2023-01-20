@@ -1,8 +1,9 @@
 {
- "theme_color": "#FFFFFF",
  "name": "Casario 179",
+ "start_url": "index.htm",
  "description": "Café Bar em Manaus-Am",
- "background_color": "#FFFFFF",
+ "display": "fullscreen",
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -40,6 +41,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm",
- "display": "fullscreen"
+ "background_color": "#FFFFFF"
 }
